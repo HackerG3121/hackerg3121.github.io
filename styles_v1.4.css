@@ -1081,9 +1081,15 @@ section {
     text-align:     center;
 }
 
+ .card-text {
+    order: 1;
+
+ }
+
 .card-img img {
     max-width: 90px;
     height:    90px;
+    order: -1;
 }
 
 .end-circle {
