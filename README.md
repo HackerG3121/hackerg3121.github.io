@@ -162,9 +162,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Giri A**
 
-- GitHub: [@HackerG4544](https://github.com/HackerG4544)
-- LinkedIn: [giri-a](https://www.linkedin.com/in/giri-a-0457a4394)
-- Twitter: [@Giri3121A](https://twitter.com/Giri3121A)
+- GitHub: [@HackerG4544](https://github.com/HackerG3121)
 - Email: giriarumugam3121@gmail.com
 
 ## 🙏 Acknowledgments
